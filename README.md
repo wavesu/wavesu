@@ -1,5 +1,5 @@
 👋 Hi, I’m @wavesu
-👀 I’m interested in learning github, Python and LLM's like ChatGPT!
+👀 I’m interested in using LLM's and Voice AI!
 
 
 
